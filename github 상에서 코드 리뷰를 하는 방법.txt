@@ -8,5 +8,5 @@ Pull request에서 Files changed 클릭 왼쪽에 보이는 0/0 files viewed 에
 코드를 다 확인하시고 Review changes 버튼을 누르면 해당 Pull request에 
 대해서 Comment를 남기거나 Merge를 승인하거나 변경 요구 가능 합니다.
 
-## 코드 옆 + 버튼을 눌러서 (드래그로 여러 라인 선택 가능) 각 코드 
-    별로 리뷰 가능합니다.
+## 코드 옆 + 버튼을 눌러서 (드래그로 여러 라인 선택 가능) 
+코드 별로 리뷰 가능합니다.
