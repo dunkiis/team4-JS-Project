@@ -10,5 +10,5 @@ index.html
  js 파일 연동 
  <script src=" " type="module"></script> 추가하기
  
- t0, t1, t2 : 제시된 코딩으로 문제풀이
+ t0, t1, t2 : 제시된 코딩으로 문제풀이 </br>
  문제풀이할 때 다르게 코딩을 해도 됩니다!!
